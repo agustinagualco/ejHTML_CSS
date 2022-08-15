@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    
+    </head>
+    
+    <body>
+    <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=1eNSWZ4x2ZU&list=PL1NLRajNVSZTbx7JTMWg4JuVXs2s8jePs&index=1">Whiskey Blues | Best of Slow Blues/Rock #1</a></li>
+            <li><a href="https://www.youtube.com/watch?v=B9FzVhw8_bY&list=PL1NLRajNVSZTbx7JTMWg4JuVXs2s8jePs&index=4">The Dead South - In Hell I'll Be In Good Company [Official Music Video]</a></li>
+            <li><a href="https://www.youtube.com/watch?v=rl9FFZZnWWo&list=PL1NLRajNVSZTbx7JTMWg4JuVXs2s8jePs&index=13">Dance Monkey (metal cover by Leo Moracchioli feat. Rabea & Hannah)</a></li>
+        </ul>
+
+   
+   
+    </body>
+    
+</html>
